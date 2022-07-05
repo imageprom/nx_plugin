@@ -1,3 +1,2 @@
 <?
-$MESS ['CP_BNL_CACHE_GROUPS'] = "Respect Access Permissions";
-?>
+$MESS['CP_BNL_CACHE_GROUPS'] = 'Respect Access Permissions';
